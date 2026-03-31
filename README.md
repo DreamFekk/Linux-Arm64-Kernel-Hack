@@ -33,5 +33,6 @@ sudo ddk build andriod12-5.10
 ```
 
 ### 用户层通信方法
+#### 详细见user 文件夹
 1. 刷入驱动
 2. open /dev/random 成功后即可通信
